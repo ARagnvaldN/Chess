@@ -1,0 +1,6 @@
+game.controller
+game.model
+game.model.AI
+game.model.movement
+game.model.score
+game.view
